@@ -31,16 +31,16 @@ margin: 2px;
 }
 
 
-@media screen and (max-width: 900px) and (min-width: 600px) {
+@media screen and (max-width: 900px) {
 
   .links{
-  border: 1px solid red;
+  border: 0px solid #87CEFA;
   display: block;
   text-align: center;
   }
 
   .links:hover{
-  border: 2px solid #FFFF00;
+  border: 0px solid #87CEFA;
   display: block;
   text-align: center;
   }
