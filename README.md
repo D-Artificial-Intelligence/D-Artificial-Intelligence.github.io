@@ -1,5 +1,6 @@
 # CodLiver(CES) Website
-Basic Hello Website
+
+Showing what I have or plan to have.
 
 for general information: https://pages.github.com/
 
