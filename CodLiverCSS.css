@@ -43,6 +43,7 @@ margin: 2px;
   .links:hover{
   border: 0px solid #87CEFA;
   display: block;
-  text-align: center;
+    float: center;
+  /*text-align: center;*/
   }
 }
